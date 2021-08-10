@@ -33,3 +33,5 @@ menu:
     - name: Home
       url: /
       weight: 1
+    - name: About
+      url: /about/

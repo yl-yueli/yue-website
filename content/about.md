@@ -2,7 +2,7 @@
 date: "2020-01-01"
 description: A description of the page
 menu: main
-title: Home
+title: About
 ---
 
 ![Headshot](/images/headshot2.jpg)
