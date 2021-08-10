@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Leslie Myint
+title: Yue Li
 
 # Is this the primary user of the site?
 superuser: true
