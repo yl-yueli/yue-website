@@ -1,4 +1,4 @@
-baseurl: https://example.com
+baseurl: https://yue-li.netlify.app/
 title: Yue Li
 author: Nan Xiao
 canonifyurls: yes
@@ -33,3 +33,5 @@ menu:
     - name: Home
       url: /
       weight: 1
+    - name: About
+      url: /about/

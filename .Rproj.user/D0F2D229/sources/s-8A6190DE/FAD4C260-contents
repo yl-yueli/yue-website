@@ -2,7 +2,7 @@
 date: "2020-01-01"
 description: A description of the page
 menu: main
-title: Home
+title: About
 ---
 
 ![Headshot](/images/headshot2.jpg)
@@ -16,3 +16,5 @@ I'm currently working at [OpenLattice](www.openlattice.com) as a Data Scientist,
 In my free time, I like to pick up new art hobbies. I've recently gotten into weaving, watercolors, digital paintings, embroidery... Just to name a few.
 
 At Stanford, I also made [podcasts](https://storytelling.stanford.edu/2019/12/09/materializing/) [like](https://storytelling.stanford.edu/2019/05/01/solitude/) [these](https://storytelling.stanford.edu/2018/04/27/speculation/)!
+
+This website was made with [blogdown](https://bookdown.org/yihui/blogdown/), theme by [nanxstats](https://github.com/nanxstats/hugo-tanka).

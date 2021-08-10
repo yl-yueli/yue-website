@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1628570603673.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "626174608",
+    "id" : "F2E8226D",
+    "lastKnownWriteTime" : 1628564435,
+    "last_content_update" : 1628564435,
+    "path" : "~/Desktop/website/.Rprofile",
+    "project_path" : ".Rprofile",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

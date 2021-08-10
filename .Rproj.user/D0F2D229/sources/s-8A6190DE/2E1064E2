@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1628570603189.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2005454298",
+    "id" : "2E1064E2",
+    "lastKnownWriteTime" : 1628570602,
+    "last_content_update" : 1628570602,
+    "path" : "~/Desktop/website/content/post/2020-12-01-r-rmarkdown/index.en.Rmd",
+    "project_path" : "content/post/2020-12-01-r-rmarkdown/index.en.Rmd",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
